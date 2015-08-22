@@ -1,1 +1,1 @@
-Bootstrap Responsive website build for a school assignment.
+Bootstrap Responsive website built for a school assignment.
